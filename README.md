@@ -1,0 +1,4 @@
+PlinkoNorm
+==========
+
+Normative plinko experiment
